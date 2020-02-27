@@ -97,6 +97,12 @@ color: #000;
     font-size: 20px;
 }
 
+#location {
+    font-family: 'Simonetta';
+    line-height: 5px;
+    color: rgb(15, 15, 97);
+}
+
 h1, h2 {
     font-family: 'Simonetta';
     color: black
