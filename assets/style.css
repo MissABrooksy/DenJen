@@ -1,0 +1,112 @@
+
+.navbar {
+    
+    width: 100%;
+   
+}
+
+
+#logo {
+    height: 60px;
+    width: 60px;
+}
+
+#image {
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+   padding: 15px;
+   margin: 10px;
+   justify-content: center;
+}
+
+#justice {
+    
+  width: 150px;
+  height: 150px ;
+}
+
+#denJen {
+    align-items: center;
+    font-family: 'Abril Fatface';
+    font-size: 90px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(12, 12, 119);
+}
+
+#subtext {
+    font-size: 20px;
+}
+
+.body-image {
+    margin: 20px;
+    text-align: center;
+    display: block;
+    
+}
+
+
+
+.site-body {
+    /* border-style: groove; */
+    border-width: 10px;
+    width: 80%;
+    margin-top: 15px;
+    margin-right: 10px;
+    float: right;
+    padding: 15px;
+    grid-row: 1 / 4;
+}
+
+.side-bar-Info {
+    background-color: rgb(40, 40, 206);
+    text-align: center;
+    margin: 15px;
+    /* height: 80px;
+    width: 160px; */
+    padding: 10px;
+    font-family: 'Lobster';
+    grid-row: 1 / 2;
+}
+
+.contacts {
+    background-color: rgb(40, 40, 206);
+    text-align: center;
+    padding: 20px;
+    }
+
+.container {
+    justify-content: space-evenly;
+    margin: 0 auto;   
+    display: grid;
+    grid-template-columns: 25% 75%;
+    
+    grid-gap: 20px;
+}
+
+
+#contact:hover {
+color: #000;
+}
+
+#contact {
+    margin-top:15px;
+    color: white;
+    text-align: center;
+    font-family: 'Lobster';
+    font-size: 20px;
+}
+
+h1, h2 {
+    font-family: 'Simonetta';
+    color: black
+}
+
+h1 {
+    color: black;
+}
+#specialty {
+    color: rgb(79, 79, 245);
+    font-size: 25px;
+}
