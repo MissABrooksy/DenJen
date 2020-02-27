@@ -22,8 +22,7 @@
 
 #justice {
     
-  width: 150px;
-  height: 150px ;
+  
 }
 
 #denJen {
@@ -66,7 +65,7 @@
     /* height: 80px;
     width: 160px; */
     padding: 10px;
-    font-family: 'Lobster';
+    font-family: 'Simonetta';
     grid-row: 1 / 2;
 }
 
@@ -94,7 +93,7 @@ color: #000;
     margin-top:15px;
     color: white;
     text-align: center;
-    font-family: 'Lobster';
+    font-family: 'Simonetta';
     font-size: 20px;
 }
 
